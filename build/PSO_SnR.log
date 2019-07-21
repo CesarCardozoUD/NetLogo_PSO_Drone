@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  8 JUL 2019 23:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  21 JUL 2019 19:22
 entering extended mode
 **./PSO_SnR.tex
 (PSO_SnR.tex
@@ -223,40 +223,48 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen123
 \Gin@req@width=\dimen124
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks24
+\float@box=\box30
+\@float@everytoks=\toks25
+\@floatcapt=\box31
+)
 (C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `PSO_SnR.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
+\scratchcounter=\count108
 \scratchdimen=\dimen125
-\scratchbox=\box30
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count110
+\scratchbox=\box32
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen126
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks27
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -304,119 +312,175 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 20--21
-[]\OT1/ptm/m/n/10 Los cos-tos de los res-ca-tes va-rian de la com-ple-ji-dad
+Underfull \hbox (badness 2644) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/10 Los cos-tos de los res-ca-tes va-rian de acuer-do a la
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 22--23
+Underfull \hbox (badness 6575) in paragraph at lines 23--24
 []\OT1/ptm/m/n/10 Actualmente se em-plean me-to-do-lo-gias de bus-que-da
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
+Underfull \hbox (badness 2096) in paragraph at lines 31--32
+\OT1/ptm/m/n/10 en-cuen-tran en su eta-pa preope-ra-to-ria, ya en-tien-den las
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 <4a6.png, id=1, 289.08pt x 216.81pt>
 File: 4a6.png Graphic file (type png)
 <use 4a6.png>
-Package pdftex.def Info: 4a6.png  used on input line 40.
-(pdftex.def)             Requested size: 206.39685pt x 154.79631pt.
+Package pdftex.def Info: 4a6.png  used on input line 35.
+(pdftex.def)             Requested size: 180.60315pt x 135.44966pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
 <7a12.png, id=3, 291.33844pt x 217.5628pt>
 File: 7a12.png Graphic file (type png)
 <use 7a12.png>
-Package pdftex.def Info: 7a12.png  used on input line 47.
-(pdftex.def)             Requested size: 206.39685pt x 154.13538pt.
-<13a17.png, id=4, 268.00125pt x 207.02344pt>
-File: 13a17.png Graphic file (type png)
-<use 13a17.png>
-Package pdftex.def Info: 13a17.png  used on input line 54.
-(pdftex.def)             Requested size: 206.39685pt x 159.43379pt.
-<18oMas.png, id=5, 272.51813pt x 198.7425pt>
-File: 18oMas.png Graphic file (type png)
-<use 18oMas.png>
-Package pdftex.def Info: 18oMas.png  used on input line 61.
-(pdftex.def)             Requested size: 206.39685pt x 150.52122pt.
+Package pdftex.def Info: 7a12.png  used on input line 45.
+(pdftex.def)             Requested size: 180.60315pt x 134.87094pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
 [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <./4a6.png>]
-<Radio_SnR.png, id=15, 313.9228pt x 242.40562pt>
+ <./4a6.png> <./7a12.png>]
+<13a17.png, id=14, 268.00125pt x 207.02344pt>
+File: 13a17.png Graphic file (type png)
+<use 13a17.png>
+Package pdftex.def Info: 13a17.png  used on input line 55.
+(pdftex.def)             Requested size: 180.60315pt x 139.5105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<18oMas.png, id=15, 272.51813pt x 198.7425pt>
+File: 18oMas.png Graphic file (type png)
+<use 18oMas.png>
+Package pdftex.def Info: 18oMas.png  used on input line 65.
+(pdftex.def)             Requested size: 180.60315pt x 131.71024pt.
+<Radio_SnR.png, id=16, 313.9228pt x 242.40562pt>
 File: Radio_SnR.png Graphic file (type png)
 <use Radio_SnR.png>
-Package pdftex.def Info: Radio_SnR.png  used on input line 71.
-(pdftex.def)             Requested size: 206.39685pt x 159.37419pt.
+Package pdftex.def Info: Radio_SnR.png  used on input line 77.
+(pdftex.def)             Requested size: 180.60315pt x 139.45612pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
-[2 <./7a12.png> <./13a17.png> <./18oMas.png> <./Radio_SnR.png>]
-(C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 96--97
+[]\OT1/ptm/m/n/10 Optimizaci[]on por En-jam-bre de Par-ti-cu-las o PSO por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 98--99
+[]\OT1/ptm/m/n/10 Su fun-cio-na-mien-to con-sis-te ba-si-ca-men-te en in-di-vi-
+duos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[2 <./13a17.png> <./18oMas.png> <./Radio_SnR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+[3
+
+] (C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3850 strings out of 492895
- 54243 string characters out of 3133482
- 137061 words of memory out of 3000000
- 7722 multiletter control sequences out of 15000+200000
- 35192 words of font info for 64 fonts, out of 3000000 for 9000
+ 3924 strings out of 492895
+ 55186 string characters out of 3133482
+ 138538 words of memory out of 3000000
+ 7791 multiletter control sequences out of 15000+200000
+ 36299 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,493b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,31p,599b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_S
-nR.pdf (2 pages, 806093 bytes).
+nR.pdf (3 pages, 812010 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
