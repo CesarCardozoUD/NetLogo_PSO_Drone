@@ -116,5 +116,78 @@ Para solucionar esto, deberemos contemplar el hecho de que los Drones iran equip
 
 Así pues la ponderación se realizará de cero a uno, y será dado por cada uno de los Drones que sobrevuelen dicha región.\\
 
+Por otro lado los Drones deben poseer configuraciones de velocidad ya que algunas orografiás del terreno permiten recorrerse de manera más sencilla que otras más complejas, sin embargo se debe tener en cuenta que este aspecto sumado a la inercia del Drone puede generar comportamientos no deseados, es por esto que la velocidad máxima del Drone se deja a criterio del usuario.\\
+ 
+El punto de partida tambien es un aspecto importante de nuestro algoritmo, ya que normalmente cada Particula tiene un punto aleatorio de partida, con lo que su cobertura del espacio es mayor, sin embargo eso en nuestras condiciones es irreal, por lo que se decidio colocar un punto estatico de origen referente al ULC y asignar direcciones y velocidades aleatorias (que no sobrepasen lo establecido por el usuario) a cada uno de los componentes del enjambre de Drones.\\
 
+Por último, es muy común que un objeto pueda pasar como un acierto sobre el objetivo que se está buscando, a esto le consideramos "Falso Positivo", este se deberá confirmar de manera manual enviando un equipo de rescate.\\
+ 
+\section{NetLogo como Herramienta para Simulación}
+
+Netlogo es un lenguaje de programación basado en agentes que dado su paradigma de programación facilita de gran manera la utilización de grupos, colonias, enjambres, etc... de individuos que tengan reglas básicas de comportamiento y así poder simular comportamientos mucho más complejos que resultan de la emergencia de los lazos comportamentales y las interaciones entre los mismos.\\
+ 
+Dada esta gran ventaja brindada por el lenguaje de programación, es una herramienta excelente para realizar implementaciones de algoritmos bioinspirados como el flocking, ABC o en el algoritmo que nos ocupa PSO.\\
+
+\subsection{Generalidades de NetLogo}
+Netlogo utiliza una terminología bastante peculiar, teniendo un espacio de nombres, expresiones regulares y palabras reservadas propias del lenguaje:\\
+
+\begin{itemize}
+\item \textbf{Tortuga/Turtle: } Cada Tortuga o \textit{Turtle} es un agente que hace parte de un grupo mas grande del mismo, así pues para nuestro caso cada \textit{Turtle} se referirá a un Drone.
+\item \textbf{Parcela/Patch: } Cada Parcela o \textit{Patch} es un trozo de la pantalla de simulación y representa una región con la que interactuán todos los \textit{Turtles}.
+\item \textbf{Set Up: } El bloque de código de \textit{Set Up} es la configuración inicial que se realiza antes de cada ejecución.
+\item \textbf{GO: } El bloque de código de \textit{Go} es la ejecución que se realizará de forma iterativa  para todas o solo algunas de las \textit{Turtles}.
+\item \textbf{Ticks: } Cada \textit{Tick} representa una Iteración en la que se lleva a cabo todo el bloque de código escrito dentro de la instrucción \textbf{\textit{GO}}. 
+\end{itemize}
+
+\subsection{Simulación en NetLogo}
+Para realizar la simulación del algoritmo PSO normalizado para busqueda y rescate, se dispusierón de tres paneles que ofrecen una diversidad de información al usuario final.\\
+
+En el panel de configuración (ver Fig. 6) podemos modificar los valores preestablecidos, para obtener otro tipo de comportamiento (grupal o individual) de los Drones, también podemos cambiar la dificultad de recorrido de el terreno y decidir si el óptimo global encontrado por el algoritmo es o no un "Falso Positivo".\\
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{Panel_Configuracion}
+\label{fig:Figure 6}
+\textbf{\caption{``Panel de Configuración''}}
+\end{center}
+\end{figure}
+
+En el panel de Graficas (ver Fig. 8) podemos observar comportamientos grupales como la cantidad de Drones que estan en el objetivo especificado a lo largo del tiempo y el costo del rescato en ese mismo intervalo.\\
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{Panel_Simulacion}
+\label{fig:Figure 7}
+\textbf{\caption{``Panel de Simulación de PSO''}}
+\end{center}
+\end{figure}
+
+En el panel de  simulación (ver Fig. 7) podemos ver el comportamiento de los Drones siendo guiados por el algoritmo de PSO en tiempo de ejecución, allí podemos ver también el reflejo de la orografía del terreno elejida por el usuario además de los falsos positivos que se hayan generado a lo largo de la ejecución.\\
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{Panel_Graficas}
+\label{fig:Figure 8}
+\textbf{\caption{``Panel de Información Gráfica''}}
+\end{center}
+\end{figure}
+
+En cuanto al código a ejecutar, como se comento en el apartado anterior se divide en dos grandes bloques que se pueden sintentizar en el \textit{Set Up} (ver Fig. 9) en donde tenemos la configuración inicial de los Drones y sus caracteristicas, p.e. posición, velocidad, dirección, etc... Por otro lado en el bloque de código \textit{Go} (ver Fig. 10) encontramos la evaluación individual de las Parcelas en las que el Drone se encuentra y la comparativa con los valores encontradas a nivel grupal, posteriormente la toma de decisión de el proximo movimiento a realizar.\\
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{FlujoSetup}
+\label{fig:Figure 9}
+\textbf{\caption{``Diagrama de fujo de el código en SetUp''}}
+\end{center}
+\end{figure}
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{FlujoGo}
+\label{fig:Figure 10}
+\textbf{\caption{``Diagrama de fujo de el código en Go''}}
+\end{center}
+\end{figure}
+  
 \end{document}

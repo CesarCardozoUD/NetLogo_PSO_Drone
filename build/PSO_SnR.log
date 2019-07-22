@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  21 JUL 2019 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  23 JUL 2019 01:22
 entering extended mode
 **./PSO_SnR.tex
 (PSO_SnR.tex
@@ -459,28 +459,129 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-[3
 
-] (C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 129--130
+[]\OT1/ptm/m/n/10 Dada es-ta gran ven-ta-ja brin-da-da por el len-gua-je de
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 129--130
+\OT1/ptm/m/n/10 im-ple-men-ta-cio-nes de al-go-rit-mos bio-ins-pi-ra-dos co-mo 
+el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 145--146
+[]\OT1/ptm/m/n/10 En el pa-nel de con-fi-gu-ra-ci[]on (ver Fig. 6) po-de-mos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<Panel_Configuracion.png, id=23, 389.95688pt x 153.57375pt>
+File: Panel_Configuracion.png Graphic file (type png)
+<use Panel_Configuracion.png>
+Package pdftex.def Info: Panel_Configuracion.png  used on input line 149.
+(pdftex.def)             Requested size: 206.39685pt x 81.28355pt.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+<Panel_Simulacion.png, id=27, 389.20406pt x 391.4625pt>
+File: Panel_Simulacion.png Graphic file (type png)
+<use Panel_Simulacion.png>
+Package pdftex.def Info: Panel_Simulacion.png  used on input line 159.
+(pdftex.def)             Requested size: 206.39685pt x 207.59956pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+<Panel_Graficas.png, id=28, 601.4972pt x 234.8775pt>
+File: Panel_Graficas.png Graphic file (type png)
+<use Panel_Graficas.png>
+Package pdftex.def Info: Panel_Graficas.png  used on input line 169.
+(pdftex.def)             Requested size: 206.39685pt x 80.59558pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+<FlujoSetup.png, id=29, 454.69875pt x 320.69812pt>
+File: FlujoSetup.png Graphic file (type png)
+<use FlujoSetup.png>
+Package pdftex.def Info: FlujoSetup.png  used on input line 179.
+(pdftex.def)             Requested size: 206.39685pt x 145.57043pt.
+<FlujoGo.png, id=30, 345.54094pt x 416.30531pt>
+File: FlujoGo.png Graphic file (type png)
+<use FlujoGo.png>
+Package pdftex.def Info: FlujoGo.png  used on input line 187.
+(pdftex.def)             Requested size: 206.39685pt x 248.6671pt.
+[4 <./Panel_Configuracion.png> <./Panel_Simulacion.png> <./Panel_Graficas.png> 
+<./FlujoSetup.png> <./FlujoGo.png>]
+(C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3924 strings out of 492895
- 55186 string characters out of 3133482
- 138538 words of memory out of 3000000
- 7791 multiletter control sequences out of 15000+200000
- 36299 words of font info for 65 fonts, out of 3000000 for 9000
+ 3958 strings out of 492895
+ 55834 string characters out of 3133482
+ 141593 words of memory out of 3000000
+ 7819 multiletter control sequences out of 15000+200000
+ 37395 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,599b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,31p,611b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_S
-nR.pdf (3 pages, 812010 bytes).
+nR.pdf (4 pages, 945717 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
