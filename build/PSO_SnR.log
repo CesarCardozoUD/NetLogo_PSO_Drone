@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  23 JUL 2019 01:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.20)  23 JUL 2019 14:52
 entering extended mode
 **./PSO_SnR.tex
 (PSO_SnR.tex
@@ -560,28 +560,169 @@ File: FlujoGo.png Graphic file (type png)
 <use FlujoGo.png>
 Package pdftex.def Info: FlujoGo.png  used on input line 187.
 (pdftex.def)             Requested size: 206.39685pt x 248.6671pt.
+
+Underfull \hbox (badness 1622) in paragraph at lines 194--195
+[]\OT1/ptm/m/n/10 Tras una se-rie de eje-cu-cio-nes en las que se eva-lu[]o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
 [4 <./Panel_Configuracion.png> <./Panel_Simulacion.png> <./Panel_Graficas.png> 
 <./FlujoSetup.png> <./FlujoGo.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 197.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 197.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+<Tabla.png, id=39, 266.49562pt x 370.38374pt>
+File: Tabla.png Graphic file (type png)
+<use Tabla.png>
+Package pdftex.def Info: Tabla.png  used on input line 208.
+(pdftex.def)             Requested size: 206.39685pt x 286.86357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 218--219
+[]\OT1/ptm/m/n/10 [1] Mi-nam-bien-te. (2018,Dic,09). ``P[]oli-za de ac-ci-den-t
+es
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 y res-ca-te en Par-ques Na-cio-na-les'' [On-li-ne] . Avai-la-bl
+e:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/ptm/m/n/10 http://www.parquesnacionales.gov.co/portal/es/poliza-de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+\OT1/ptm/m/n/10 por en-jam-bres de part[]cu-las'' [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 226--227
+\OT1/ptm/m/n/10 In-ter-na-tio-nal Con-fe-ren-ce on Next Ge-ne-ra-tion Com-pu-ti
+ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[]\OT1/ptm/m/n/10 [7] Emi-lio Or-diz. (2018,Oct,29). ``Las du-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/ptm/m/n/10 los res-ca-tes: qui[]en los pa-ga, cu[]anto cues-tan y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/ptm/m/n/10 en qu[]e si-tua-cio-nes se acu-de'' [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/ptm/m/n/10 https://www.20minutos.es/noticia/3230755/0/preguntas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 233--234
+\OT1/ptm/m/n/10 met-hods of ma-ri-ne search and res-cue ships,"2016 13th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+[5 <./Tabla.png>]
 (C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_SnR.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3958 strings out of 492895
- 55834 string characters out of 3133482
- 141593 words of memory out of 3000000
- 7819 multiletter control sequences out of 15000+200000
- 37395 words of font info for 66 fonts, out of 3000000 for 9000
+ 4001 strings out of 492895
+ 56487 string characters out of 3133482
+ 141601 words of memory out of 3000000
+ 7848 multiletter control sequences out of 15000+200000
+ 39094 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,611b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,31p,788b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
-iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
-tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:\Users\User\Documents\NETLOGO\NetLogo_PSO_Drone\build\PSO_S
-nR.pdf (4 pages, 945717 bytes).
+nR.pdf (5 pages, 992343 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

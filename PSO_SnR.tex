@@ -189,5 +189,51 @@ En cuanto al código a ejecutar, como se comento en el apartado anterior se divi
 \textbf{\caption{``Diagrama de fujo de el código en Go''}}
 \end{center}
 \end{figure}
-  
+
+\section{Resultados}
+Tras una serie de ejecuciones en las que se evaluó el comportamiento tanto de manera individual como de manera grupal, se establecieron unos valores predefinidos que describen el comportamiento deseado para el enjambre de Drones, sin embargo y como ya se dijo estos valoes se pueden modificar en cualquier momento por el usuario final desde el Panel de Configuración o incluso directamente desde el código del bloque de \textit{Set Up}.\\
+
+\begin{itemize}
+\item $Inercia del Drone = 0.98\frac{m}{s}$
+\item $Max velocidad del Drone = 50\frac{m}{s} $
+\item $Prioridad al Max Personal = 0.5 $
+\item $Prioridad al Max Grupal = 1.2 $ \\
+
+\end{itemize}
+
+Tambien se estableció que en promedio (ver Fig. 11) se deben enviar 7 ayudas, es decir se obtienen en promedio 6 Falsos positivos, cada vez que se realiza una busqueda en un campo de gran superficie, también se esteblece que el tiempo que se debe emplear en el rescate es de unas 10 horas con un costo promedio de 7800 USD (Principalmente debido al desplazamiento de equipos de rescate tras los falsos positivos).\\
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.4\textwidth]{Tabla}
+\label{fig:Figure 11}
+\textbf{\caption{``Tabla de Promedios en Serie de Ejecuciones''}}
+\end{center}
+\end{figure}
+
+\section{Conclusiones}
+Dado que un rescate normal por helicoptero tiene unos costos elevadisimos (al rededor de 5480 USD solo el despegue del helicoptero) el ahorrar este tipo de recursos para rescates unicamente de alta complejidad se hace necesario, es por esto que el uso de algoritmos automatizados de localización de objetivos en grandes superficies es tan factible; por otro lado el tiempo que se debe emplear en promedio para la localización y posterior rescate es notablemente menor al que se suele emplear en rescates de este tipo (al rededor de 1 o 2 días) por lo que de llegar a pulirse el algoritmo normalizado, contemplando ciertos criterios que por cuestiones de complejidad se obviaron (p.e. el clima) resulta mucho más rentable que el protocolo de resacte actual.\\
+
+\section{Referencias}
+[1] Minambiente. (2018,Dic,09). ``Póliza de accidentes y rescate en Parques Nacionales'' [Online] . Available: http://www.parquesnacionales.gov.co/portal/es/poliza-de-accidentes-y-rescate-en-parques-nacionales/\\
+
+[2] P.H. Eugenio, \textit{``Rescate y Búsqueda en Grandes Áreas,''} in Manual de Rescate y Salvamento Vol. 7. Guadalajara: Griker Orgemer, 2015.\\
+
+[3] Fernando Caparrini. (2016,Nov,18). ``PSO: Optimización por enjambres de partículas'' [Online]. Available: http://www.cs.us.es/~fsancho/?e=70.\\
+
+[4] N. Rokbani, A. Abraham and A. M. Alimi, "Fuzzy Ant Supervised by PSO and simplified ant supervised PSO applied to TSP," 13th International Conference on Hybrid Intelligent Systems (HIS 2013), Gammarth, 2013, pp. 251-255.\\
+
+[5]D. Pal, P. Verma, D. Gautam and P. Indait, "Improved optimization technique using hybrid ACO-PSO," 2016 2nd International Conference on Next Generation Computing Technologies (NGCT), Dehradun, 2016, pp. 277-282.\\
+
+
+[6] Servidrone. ``Preguntas Frecuentes (Drones)'' [Online]. Available: https://www.servidrone.com/faq/\\
+
+[7] Emilio Ordiz. (2018,Oct,29). ``Las dudas en los rescates: quién los paga, cuánto cuestan y en qué situaciones se acude'' [Online]. Available: https://www.20minutos.es/noticia/3230755/0/preguntas-respuestas-rescates-emergencias/\\
+
+[8] Li Wei and Liu wenyuan, "The optimized selection methods of marine search and rescue ships," 2016 13th International Conference on Service Systems and Service Management (ICSSSM), Kunming, 2016, pp. 1-4.\\
+
+[9]H. Yang and W. Chiu, "Cooperative multirobot strategy for seeking multiple sources," 2017 International Conference on Applied System Innovation (ICASI), Sapporo, 2017, pp. 1779-1781.\\
+
+[10]D. Kurabayashi, H. Asama, K. Noda, I. Endo and H. Hashimoto, "Information assistance in rescue using intelligent data carriers," Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium, Maui, HI, USA, 2001, pp. 2294-2299 vol.4
+
 \end{document}
